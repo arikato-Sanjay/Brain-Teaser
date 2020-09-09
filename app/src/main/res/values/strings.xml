@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Brain Teaser</string>
+    <string name="let_s_go">Let\'s GO!</string>
+    <string name="_30s">30s</string>
+    <string name="_0_0">0/0</string>
+    <string name="_10_5">10+5</string>
+    <string name="correct">Correct :)</string>
+    <string name="play_again">Play Again</string>
+</resources>
