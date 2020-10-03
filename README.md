@@ -1,5 +1,5 @@
 # Brain-Teaser
-Lets do basic mathematics, you have got 30 sec and score more than 30.  
+Let's do basic mathematics, you have got 30 sec and you have to score more than 30.  
 
 ![Screenshot_2020-09-10-08-32-50-08_076a37e77bdbdbf1e82c0b7ee7e84c7c](https://user-images.githubusercontent.com/68771105/92687430-282e8e00-f359-11ea-8dca-65edcbb7ceac.png)
 
